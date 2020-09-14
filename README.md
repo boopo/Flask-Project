@@ -1,2 +1,2 @@
 # Flask-Project
-some flask app
+一个未完成的淘票票项目
